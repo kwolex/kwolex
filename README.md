@@ -23,8 +23,8 @@
 <h2 align="center">Stats</h2>
 <div align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=o-xolop-o&show_icons=true&theme=dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=o-xolop-o&layout=compact&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api?username=o-xolop-o&show_icons=true&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=o-xolop-o&layout=compact&show_icons=true&theme=dark&hide_border=true)
 
 </div>
 
