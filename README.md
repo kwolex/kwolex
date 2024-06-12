@@ -24,8 +24,8 @@
 <h2 align="center">Stats</h2>
 <div align="center">
 
-![PythonAnywhere](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=o-xolop-o&theme=dark)
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=o-xolop-o&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="100" alt="languages graph"  />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=o-xolop-o&show_icons=true&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=o-xolop-o&layout=compact&theme=dark&hide_border=true)
 
 </div>*
 
