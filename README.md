@@ -27,7 +27,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=o-xolop-o&show_icons=true&theme=dark&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=o-xolop-o&layout=compact&theme=dark&hide_border=true)
 
-</div>*
+</div>
 
 <h2 align="center">Technologies</h2>
 
