@@ -6,33 +6,33 @@
 
 ###
 
-<h1 align="center">My socials: </h1>
+<h2 align="center">My socials: </h2>
 
 ###
 
 <div align="center">
   <a href="https://t.me/xolopdev" target="_blank">
-  <img src="https://cdn.simpleicons.org/Telegram/#26A5E4" height="35" alt="xolop"/>
+  <img src="https://cdn.simpleicons.org/Telegram/#26A5E4" height="30" alt="xolop"/>
   </a>
 </div>
 
 ###
 
-<h1 align="center">🛠 My technologies:</h1>
+<h2 align="center">My technologies:</h2>
 
 ###
 
 <div align="center">
-  <img src="https://cdn.simpleicons.org/python/#3776AB" height="35" alt="python"  />
-  <img src="https://cdn.simpleicons.org/JavaScript/#F7DF1E" height="35" alt="js"  />
-  <img src="https://cdn.simpleicons.org/HTML5/#E34F26" height="35" alt="html"  />
-  <img src="https://cdn.simpleicons.org/CSS3/#1572B6" height="35" alt="css"  />
-  <img src="https://cdn.simpleicons.org/php/#777BB4" height="35" alt="php"  />
+  <img src="https://cdn.simpleicons.org/python/#3776AB" height="30" alt="python"  />
+  <img src="https://cdn.simpleicons.org/JavaScript/#F7DF1E" height="30" alt="js"  />
+  <img src="https://cdn.simpleicons.org/HTML5/#E34F26" height="30" alt="html"  />
+  <img src="https://cdn.simpleicons.org/CSS3/#1572B6" height="30" alt="css"  />
+  <img src="https://cdn.simpleicons.org/php/#777BB4" height="30" alt="php"  />
 </div>
 
 ###
 
-<h1 align="left">🔥 Stats :</h1>
+<h2 align="center">Stats :</h2>
 
 
 ###
