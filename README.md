@@ -4,6 +4,11 @@
   <img height="432" width="768" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
 </div>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Arial+Code&size=55&pause=500&color=7b68ee&center=true&random=false&width=1000&height=100&lines=-- xolop --&duration=3500" alt="Typing SVG" /></a>
+
+<div align="center">
+
+**`scripts? cheats? autobot? crypto? telebot? - I will do!`**
+</div>
 <h2 align="center">Socials</h2>
 
 <div align="center">
@@ -15,6 +20,14 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
   </a>
 </div>
+
+<h2 align="center">Stats</h2>
+<div align="center">
+
+![PythonAnywhere](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=o-xolop-o&theme=dark)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=o-xolop-o&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="100" alt="languages graph"  />
+
+</div>*
 
 <h2 align="center">Technologies</h2>
 
@@ -44,16 +57,5 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![PythonAnywhere](https://img.shields.io/badge/pythonanywhere-%232F9FD7.svg?style=for-the-badge&logo=pythonanywhere&logoColor=151515)
-
-</div>
-
-<h2 align="center">Stats</h2>
-
-
-
-<div align="center">
-
-![PythonAnywhere](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=o-xolop-o&theme=dark)
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=o-xolop-o&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="100" alt="languages graph"  />
 
 </div>
