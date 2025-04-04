@@ -11,11 +11,11 @@
 <h2 align="center">Socials</h2>
 
 <div align="center">
-  <a href="https://t.me/xolopdev" target="_blank">
+  <a href="https://t.me/kwolexdev" target="_blank">
 
   ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
   </a>
-    <a href="https://github.com/o-xolop-o" target="_blank">
+    <a href="https://github.com/kwolex" target="_blank">
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
   </a>
 </div>
@@ -23,8 +23,8 @@
 <h2 align="center">Stats</h2>
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api?username=o-xolop-o&show_icons=true&theme=dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=o-xolop-o&layout=compact&show_icons=true&theme=dark&hide=&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api?username=kwolex&show_icons=true&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kwolex&layout=compact&show_icons=true&theme=dark&hide=&hide_border=true)
 
 </div>
 
