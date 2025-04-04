@@ -3,7 +3,7 @@
 <div align="center">
   <img height="432" width="768" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
 </div>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Arial+Code&size=55&pause=500&color=7b68ee&center=true&random=false&width=1000&height=100&lines=-- xolop --&duration=3500" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Arial+Code&size=55&pause=500&color=7b68ee&center=true&random=false&width=1000&height=100&lines=-- kwolex --&duration=3500" alt="Typing SVG" /></a>
 <div align="center">
 
 **`scripts? cheats? autobot? crypto? telebot? - I will do!`**
