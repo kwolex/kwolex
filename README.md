@@ -6,9 +6,9 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Arial+Code&size=55&pause=500&color=7b68ee&center=true&random=false&width=1000&height=100&lines=--+kwolex+--&duration=3500" alt="Typing SVG" />
 
-<div align="center">
-  **`scripts? cheats? autobot? crypto? telebot? - I will do!`**
-</div>
+<p align="center">
+  <strong><code>scripts? cheats? autobot? crypto? telebot? - I will do!</code></strong>
+</p>
 
 <h2 align="center">Socials</h2>
 
